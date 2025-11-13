@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+  <rect width="100%" height="100%" fill="#08121a"/>
+  <text x="40" y="80" font-family="IBM Plex Mono, monospace" font-size="34" fill="#9fe1ff">Project 1 — ONNX runtime on AJIT</text>
+  <rect x="40" y="120" width="640" height="320" rx="10" fill="#0b2a3a"/>
+  <text x="60" y="180" font-family="IBM Plex Mono, monospace" font-size="18" fill="#a8d9e8">Screenshot placeholder</text>
+</svg>
